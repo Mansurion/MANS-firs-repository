@@ -1,29 +1,33 @@
 body {
-    font-family: ;
+    background-color: rgb(203, 203, 203);
 }
 
 h1 {
     text-align: center;
 }
 
-.container {
-    max-width: 400px;
-    margin: 0 auto;
-    background-color: bisque;
-    padding: 20px;
-    border-radius: 20px;
-    box-shadow: 0 0 10px purple;
-}
-
 div {
-    
+    margin: 0 auto;
+    padding: 10px;
+    max-width: 400px;
+    background-color: rgb(125, 255, 179);
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
 }
 
 li {
-    margin: 0 auto;
-    margin-bottom: 10px;;
+    margin: 10%;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    background-color: rgb(255, 133, 133);
     padding: 20px;
-    background-color: rgb(142, 209, 142);
-    border-radius: 20px;
     list-style-type: none;
+}
+
+label {
+    display: flex;
+    align-items: center;            
 }
