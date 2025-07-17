@@ -8,7 +8,6 @@ h1 {
 
 div {
     margin: 0 auto;
-    padding: ;
     max-width: 400px;
     background-color: rgb(125, 255, 179);
     border-radius: 10px;
@@ -39,6 +38,4 @@ label {
 #ul {
     display: flex;
     flex-direction: column;
-    align-items: ;
-    margin: ;
 }
