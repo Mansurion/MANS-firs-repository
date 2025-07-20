@@ -3,20 +3,22 @@ h1 {
 }
 
 body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     background-color: blanchedalmond;
 }
 
 .first {
     display: flex;
     align-items: center;
-    gap: 20px;
+    : 20px;gap
     flex-direction: column;
     justify-content: center;
     border: 1px solid black;
     border-radius: 5px;
     background-color: rgb(179, 255, 255);
     max-width: 450px;
-    margin: 0 auto;
     padding: 20px;
 }
 
