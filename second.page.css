@@ -21,29 +21,3 @@ body {
     width: 450px;
     padding: 20px;
 }
-
-.item {
-    display: flex;
-    flex-direction: column;
-    height: 100px;
-    width: 220px;
-    border: 1px solid black;
-    border-radius: 5px;
-    background-color: rgb(156, 255, 200);
-    padding: 10px;
-}
-
-.title {
-    display: flex;
-    justify-content: left;
-}
-
-.sub-item {
-    display: flex;
-    margin-left: 50px;
-}
-
-.accetp {
-    display: flex;
-    margin: 10px;
-}
