@@ -8,3 +8,5 @@ radioButtons.forEach(radio => {
     }
   });
 });
+
+alert("Я JavaScript!");
